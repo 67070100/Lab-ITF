@@ -1,3 +1,3 @@
 """ print message """
 message = "Hello, World"
-print(message)
+print(message*2)
